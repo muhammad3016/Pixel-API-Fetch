@@ -1,6 +1,5 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![screencapture-localhost-3000-2023-12-26-17_49_52](https://github.com/muhammad3016/Pixel-API-Fetch/assets/136165752/ae556df1-e5f1-482a-8c6d-cd683928cdd0)
 
 ## Available Scripts
 
